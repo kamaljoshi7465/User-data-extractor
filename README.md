@@ -61,7 +61,7 @@ user-data-extractor/
 ### 1. Clone Repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/kamaljoshi7465/User-data-extractor.git
 cd user-data-extractor
 ```
 
